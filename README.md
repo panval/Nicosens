@@ -35,3 +35,9 @@ Der Ausstieg oder die gezielte Reduzierung fällt schwer, wenn man den Überblic
 - **Kotlin Multiplatform (KMP) & Compose Multiplatform:** Gemeinsame Business-Logik und UI für Android und iOS.
 - **Native Widgets:** Android AppWidgets & iOS WidgetKit mit App Intents.
 - **Smartwatch-Sync:** Synchronisation via Apple WatchConnectivity & Google Wearable Data Layer API.
+
+- ## 💬 Feedback & Kontakt
+
+Hast du Fragen, Anregungen oder einen Fehler gefunden? Ich freue mich über dein Feedback!
+
+[![Feedback geben](https://img.shields.io/badge/💬_Feedback_&_Kontakt-Tally-22c55e?style=for-the-badge)](https://tally.so/r/q4xWNd)
