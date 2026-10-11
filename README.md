@@ -1,7 +1,7 @@
 <img width="250" height="250" alt="3" src="https://github.com/user-attachments/assets/5528270b-55ee-44d8-bdb8-03db13363a51" />
 
 
-# Nicosens – Tracker App
+# Nicosens App
 
 **Nicosens** ist eine plattformübergreifende Anwendung (Android, iOS, Wear OS & watchOS) zur bewussten Erfassung, Analyse und schrittweisen Reduzierung des Konsums von  (E-)Zigaretten.
 
