@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="3" src="https://github.com/user-attachments/assets/5528270b-55ee-44d8-bdb8-03db13363a51" />
+<img width="250" height="250" alt="3" src="https://github.com/user-attachments/assets/5528270b-55ee-44d8-bdb8-03db13363a51" />
 
 
 #🚭 Rauchen Reduzieren – Tracker App
