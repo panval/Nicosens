@@ -1,9 +1,9 @@
 <img width="250" height="250" alt="3" src="https://github.com/user-attachments/assets/5528270b-55ee-44d8-bdb8-03db13363a51" />
 
 
-#🚭 Rauchen Reduzieren – Tracker App
+# Nicosens – Tracker App
 
-**Rauchen Reduzieren** ist eine plattformübergreifende Anwendung (Android, iOS, Wear OS & watchOS) zur bewussten Erfassung, Analyse und schrittweisen Reduzierung des Konsums von Zigaretten und E-Zigaretten (Vaping).
+**Nicosens** ist eine plattformübergreifende Anwendung (Android, iOS, Wear OS & watchOS) zur bewussten Erfassung, Analyse und schrittweisen Reduzierung des Konsums von  (E-)Zigaretten.
 
 ---
 
@@ -15,29 +15,23 @@
 
 ---
 
-## 🎯 Warum diese App?
+## Warum diese App?
 
 Der Ausstieg oder die gezielte Reduzierung fällt schwer, wenn man den Überblick über das eigene Konsumverhalten verliert. **Rauchen Reduzieren** schafft Transparenz über den täglichen Konsum, die finanziellen Ausgaben und die persönlichen Fortschritte – direkt auf dem Smartphone, dem Homescreen-Widget und der Smartwatch.
 
 ---
 
-## ✨ Hauptfunktionen
+## Hauptfunktionen
 
-- 🚬 **Zigaretten- & Vaping-Tracking:** Schnelles Erfassen von Zigaretten und E-Zigaretten-Zügen mit nur einem Tippen.
-- 🎯 **Individuelle Tagesziele:** Setze persönliche Tageslimits für Zigaretten und Vapes, um deinen Konsum Schritt für Schritt zu senken.
-- 💰 **Kosten- & Ersparnisrechner:** Behalte die täglichen, monatlichen und jährlichen Ausgaben im Blick und sieh, wie viel Geld du durch Reduzierung sparst.
-- 📅 **Kalender & Historie:** Detaillierte Übersichten und Verläufe helfen dir, Konsummuster und Fortschritte im Zeitverlauf zu erkennen.
-- 📱 **Homescreen-Widgets (Android & iOS):** Schnelles Loggen direkt vom Sperr- oder Startbildschirm aus – ohne die App öffnen zu müssen.
-- ⌚ **Smartwatch-Integration (Wear OS & watchOS):** Nahtlose Erfassung direkt am Handgelenk mit automatischer Echtzeit-Synchronisierung.
-- 🔒 **Datenschutz & Offline-First:** Alle Daten bleiben lokal auf deinem Gerät gespeichert und werden nicht an externe Server übertragen.
+- **Zigaretten- & Vaping-Tracking:** Schnelles Erfassen von Zigaretten und E-Zigaretten-Zügen mit nur einem Tippen.
+- **Individuelle Tagesziele:** Setze persönliche Tageslimits für Zigaretten und Vapes, um deinen Konsum Schritt für Schritt zu senken.
+- **Kosten- & Ersparnisrechner:** Behalte die täglichen, monatlichen und jährlichen Ausgaben im Blick und sieh, wie viel Geld du durch Reduzierung sparst.
+- **Kalender & Historie:** Detaillierte Übersichten und Verläufe helfen dir, Konsummuster und Fortschritte im Zeitverlauf zu erkennen.
+- **Homescreen-Widgets (Android & iOS):** Schnelles Loggen direkt vom Sperr- oder Startbildschirm aus – ohne die App öffnen zu müssen.
+- **Smartwatch-Integration (Wear OS & watchOS):** Nahtlose Erfassung direkt am Handgelenk mit automatischer Echtzeit-Synchronisierung.
+- **Datenschutz & Offline-First:** Alle Daten bleiben lokal auf deinem Gerät gespeichert und werden nicht an externe Server übertragen.
 
 ---
-
-## 🛠️ Technische Highlights
-
-- **Kotlin Multiplatform (KMP) & Compose Multiplatform:** Gemeinsame Business-Logik und UI für Android und iOS.
-- **Native Widgets:** Android AppWidgets & iOS WidgetKit mit App Intents.
-- **Smartwatch-Sync:** Synchronisation via Apple WatchConnectivity & Google Wearable Data Layer API.
 
 - ## 💬 Feedback & Kontakt
 
