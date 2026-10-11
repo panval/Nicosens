@@ -1,4 +1,7 @@
-# 🚭 Rauchen Reduzieren – Tracker App
+<img width="4096" height="4096" alt="3" src="https://github.com/user-attachments/assets/5528270b-55ee-44d8-bdb8-03db13363a51" />
+
+
+#🚭 Rauchen Reduzieren – Tracker App
 
 **Rauchen Reduzieren** ist eine plattformübergreifende Anwendung (Android, iOS, Wear OS & watchOS) zur bewussten Erfassung, Analyse und schrittweisen Reduzierung des Konsums von Zigaretten und E-Zigaretten (Vaping).
 
