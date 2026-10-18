@@ -17,7 +17,7 @@
 
 ## Warum diese App?
 
-Der Ausstieg oder die gezielte Reduzierung fällt schwer, wenn man den Überblick über das eigene Konsumverhalten verliert. **Rauchen Reduzieren** schafft Transparenz über den täglichen Konsum, die finanziellen Ausgaben und die persönlichen Fortschritte – direkt auf dem Smartphone, dem Homescreen-Widget und der Smartwatch.
+Der Ausstieg oder die gezielte Reduzierung fällt schwer, wenn man den Überblick über das eigene Konsumverhalten verliert. **Nicosens** schafft Transparenz über den täglichen Konsum, die finanziellen Ausgaben und die persönlichen Fortschritte – direkt auf dem Smartphone, dem Homescreen-Widget und der Smartwatch.
 
 ---
 
@@ -43,9 +43,9 @@ Hast du Fragen, Anregungen oder einen Fehler gefunden? Ich freue mich über dein
 
 Du findest diese App hilfreich und möchtest ihre Weiterentwicklung unterstützen?
 
-Mit einer kleinen Spende kannst du mich dabei unterstützen, die App weiter zu verbessern, Fehler zu beheben und neue Funktionen zu entwickeln.
+Mit einer kleinen Spende kannst du mich dabei unterstützen, die App weiter zu verbessern.
 
-Jede Unterstützung ist freiwillig und wird sehr geschätzt. Vielen Dank, dass du dir die Zeit nimmst, mein Projekt zu nutzen und zu unterstützen!
+Jede Unterstützung ist freiwillig und wird sehr geschätzt.
 
 <a href="https://buymeacoffee.com/panval" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
