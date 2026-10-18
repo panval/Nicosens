@@ -33,7 +33,7 @@ Der Ausstieg oder die gezielte Reduzierung fällt schwer, wenn man den Überblic
 
 ---
 
-- ## Feedback & Kontakt
+## Feedback & Kontakt
 
 Hast du Fragen, Anregungen oder einen Fehler gefunden? Ich freue mich über dein Feedback!
 
