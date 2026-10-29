@@ -39,16 +39,3 @@ Hast du Fragen, Anregungen oder einen Fehler gefunden? Ich freue mich über dein
 
 [![Feedback geben](https://img.shields.io/badge/💬_Feedback_&_Kontakt-Tally-22c55e?style=for-the-badge)](https://tally.so/r/q4xWNd)
 
-## Unterstütze die Weiterentwicklung
-
-Du findest diese App hilfreich und möchtest ihre Weiterentwicklung unterstützen?
-
-Mit einer kleinen Spende kannst du mich dabei unterstützen, die App weiter zu verbessern.
-
-Jede Unterstützung ist freiwillig und wird sehr geschätzt.
-
-<a href="https://buymeacoffee.com/panval" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-       alt="Spendiere mir einen Kaffee"
-       width="200">
-</a>
