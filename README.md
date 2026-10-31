@@ -33,6 +33,12 @@ Der Ausstieg oder die gezielte Reduzierung fällt schwer, wenn man den Überblic
 
 ---
 
+## Bekannte Bugs - in Arbreit
+
+- Sprache kann gewechselt werden aber nicht die Währung
+- Tabakerhitzer fehlt
+- Ausgaben werden im Kalender werden nicht deutlich genug hervorgehoben
+
 ## Feedback & Kontakt
 
 Hast du Fragen, Anregungen oder einen Fehler gefunden? Ich freue mich über dein Feedback!
