@@ -38,6 +38,7 @@ Der Ausstieg oder die gezielte Reduzierung fällt schwer, wenn man den Überblic
 - Sprache kann gewechselt werden aber nicht die Währung
 - Tabakerhitzer fehlt
 - Ausgaben werden im Kalender nicht deutlich genug hervorgehoben
+- es wird auf der android watch gezählt - app reagiert (beim öffnen) aber Widget am Home screen aktualisiert nicht
 
 ## Feedback & Kontakt
 
