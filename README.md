@@ -37,7 +37,7 @@ Der Ausstieg oder die gezielte Reduzierung fällt schwer, wenn man den Überblic
 
 - Sprache kann gewechselt werden aber nicht die Währung
 - Tabakerhitzer fehlt
-- Ausgaben werden im Kalender werden nicht deutlich genug hervorgehoben
+- Ausgaben werden im Kalender nicht deutlich genug hervorgehoben
 
 ## Feedback & Kontakt
 
